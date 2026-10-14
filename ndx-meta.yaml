@@ -1,5 +1,5 @@
 name: ndx-ophys-devices
-version: 0.3.1
+version: 0.4.0
 src: https://github.com/catalystneuro/ndx-ophys-devices
 pip: https://pypi.org/project/ndx-ophys-devices/
 license: BSD
